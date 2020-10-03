@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutterappcemilan/detail.dart';
 
+//daffa hactoberfest 2020
+
 void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
